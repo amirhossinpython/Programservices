@@ -36,7 +36,7 @@
 
 - [کانال تلگرام](https://t.me/pythonsource1384)  
 - [کانال روبیکا](https://rubika.ir/Python_Source_1403)  
-- [کانال SPlus](https://splus.ir/PythonSource)  
+- [کانال سروش](https://splus.ir/PythonSource)  
 
 ## 📝 در انتها  
 
